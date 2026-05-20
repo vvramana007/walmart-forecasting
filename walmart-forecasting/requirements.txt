@@ -1,0 +1,10 @@
+(Python Libraries)
+pandas
+numpy
+matplotlib
+scikit-learn
+
+---
+
+Google colab (IDE)
+Google Gemini (LLM)
